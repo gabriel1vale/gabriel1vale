@@ -96,4 +96,4 @@
 
 
 --- 
-<div align="center">Esse perfil foi criado com a ajuda do <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Esse perfil foi criado com a ajuda do <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> e alterado por mim!</div>
