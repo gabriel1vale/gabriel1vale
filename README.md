@@ -1,10 +1,13 @@
 <div align="center">
 <img alt="Foto de Perfil" width="260" height="260" src="https://avatars.githubusercontent.com/u/111702601?v=4"> 
 </div>  
-  
+<br></br>
 
-### <div align="center"> Olá, me chamo Gabriel!</div>  
-### <div align="center"> Sou um desenvolvedor frontend e me interesso muito por desenvolvimento web, UI/UX e design. Além disso, sou um entusiasta de IA e jogos!</div>  
+  
+<div align="center"> Olá, me chamo Gabriel! </div>  
+<br></br>
+
+<div align="center"> Sou um desenvolvedor frontend e me interesso muito por desenvolvimento web, UI/UX e design. Além disso, sou um entusiasta de IA e jogos!</div>  
 <br></br>
 
 
