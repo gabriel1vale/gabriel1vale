@@ -14,7 +14,7 @@
 - 🏢 Atualmente sou estagiário de desenvolvimento no Grupo Jacto.  
   
 
-- 🏫 Estou cursando Big Data no Agronegócio na FATEC Shunji Nishimura  
+- 🏫 Estou cursando Sistemas para Internet na Anhanguera
   
 - ✉️ Email: gabriel08vale@gmail.com
 
