@@ -42,7 +42,6 @@
 <a href="https://linkedin.com/in/gabriel1vale" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/gabrielvale2" target="_blank"> <img src=https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
  
 </div>  
 
